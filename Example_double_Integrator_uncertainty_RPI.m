@@ -9,6 +9,9 @@
 %%%%%%%%        [  0          1+a22/(1+a11)]       [1]      [1]      %%%%%%%%%%
 %%%%%%%%-------------------------------------------------------------%%%%%%%%%%
 
+%%% Install Yalmip toolbox for solving SDP
+%%% Install MPT toolbox for plotting the sets
+
 clc; clf; warning off; 
 clear all;
 addpath('./extras')  
