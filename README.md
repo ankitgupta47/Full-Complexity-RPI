@@ -1,4 +1,4 @@
-# Low-Complexity-RCI
+# Full-Complexity-RCI
 This repo provides the matlab codes for the algorithm proposed in following papers
 
 -----------------------------------------------------------------------------------
